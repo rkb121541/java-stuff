@@ -1,1 +1,1 @@
-java tictactoe game using CLI. computer makes move randomly based on available positions. heavily modified from https://www.youtube.com/watch?v=ROvAUVINlBE&list=PLkeaG1zpPTHhXOfy-mFbdqd1Zz4GnjcpC&index=61
+Java tictactoe game using CLI. Computer makes its move randomly based on available slots. Used [this](https://www.youtube.com/watch?v=ROvAUVINlBE&list=PLkeaG1zpPTHhXOfy-mFbdqd1Zz4GnjcpC&index=61) for slight guidance.

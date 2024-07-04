@@ -1,3 +1,1 @@
-tictactoe game but computer makes move using minimax algorithm. implemented using this https://www.youtube.com/watch?v=trKjYdBASyQ&t=1155s
-
-sped it up using alpha-beta pruning
+Tictactoe game but computer makes its move using the minimax algorithm. Implemented using this [video](https://www.youtube.com/watch?v=trKjYdBASyQ&t=1155s ";)"). Sped up the algorithm using alpha-beta pruning.

@@ -65,6 +65,6 @@ public class Main {
             DecimalFormat df = new DecimalFormat("0.0");
             System.out.println("Your BMI is: " + df.format(bmi));
         }
-        
+        scanner.close();
     }
 }
