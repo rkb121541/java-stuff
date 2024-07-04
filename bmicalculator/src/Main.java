@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
             
         // if you're not from the US its: weight (kg) / height^2 (m)
-        // if you're in the US its: same thing but in lbs and in *703
+        // if you're in the US its: same thing but in lbs and inches *703
         System.out.println("Welcome to BMI calculator!");
         Scanner scanner = new Scanner(System.in);
         System.out.println("Are you from the US? (y/n):");
